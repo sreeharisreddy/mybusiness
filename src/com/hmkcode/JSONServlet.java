@@ -17,7 +17,7 @@ public class JSONServlet extends HttpServlet {
  
     private static final long serialVersionUID = 1L;
  
-    // This will store all received articles
+    // This will store all received articles//
     List<Article> articles = new LinkedList<Article>();
  
     /***************************************************
